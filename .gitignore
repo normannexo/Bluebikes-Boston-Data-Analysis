@@ -1,0 +1,12 @@
+/img
+!data/Boston/csv
+/Project Template
+/.ipynb_checkpoints
+*.ipynb
+!*bluebikes*.ipynb
+!*bluebikes.*.html
+*.html
+*.csv
+*zip
+*tripdata*
+!weather_data_boston.csv
