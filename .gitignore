@@ -4,8 +4,6 @@
 /.ipynb_checkpoints
 *.ipynb
 !*bluebikes*.ipynb
-!*bluebikes.*.html
-*.html
 *.csv
 *zip
 *tripdata*

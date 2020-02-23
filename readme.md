@@ -34,6 +34,10 @@ The following files are included in this repository
 - `exploration_bluebikes_Boston.ipynb`: In this notebook all explorative analysis is carried out
 - `slide_deck_bluebikes.ipnyb`: This notebook contains the explanatory insights and is the basis for the slide deck html
 - `data/weather_data_boston.csv`: the csv data file with historical weather data obtained from the National Oceanic and atmospheric Administration
+- `slide_deck_bluebikes.slides.html`: html version of explanatory slide deck.
+
+**command to convert slide deck:**  
+jupyter nbconvert slide_deck_bluebikes.ipynb --to slides --post serve --SlidesExporter.reveal_scroll=True --template output_toggle
 
 
 
